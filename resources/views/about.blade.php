@@ -12,7 +12,7 @@
                     <p class="mb-2">Nama : Atiqah Shafa Muthmainnah Jaddu</p>
                     <p class="mb-2">NIM : 20230140197</p>
                     <p class="mb-2">Program Studi : Teknologi Informasi</p>
-                    <p class="mb-2">Hobi : Menangis</p>
+                    <p class="mb-2">Hobi : Travelling</p>
                 </div>
             </div>
         </div>
